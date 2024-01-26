@@ -13,4 +13,4 @@ psychopy_plugin = "psychopy_sphinx_themes"
 psychopy = "psychopy_sphinx_themes"
 
 [tool.setuptools.package-data]
-"psychopy-sphinx-themes" = ["*.html", "*.css", "*.js", "*.png", "*.jpg", "*.jpeg", "*.svg", ".conf"]
+"*" = ["*.html", "*.css", "*.js", "*.png", "*.jpg", "*.jpeg", "*.svg", ".conf"]
