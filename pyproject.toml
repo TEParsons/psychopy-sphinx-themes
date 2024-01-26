@@ -12,5 +12,8 @@ license = { text = "MIT" }
 psychopy_plugin = "psychopy_sphinx_themes"
 psychopy = "psychopy_sphinx_themes"
 
+[tool.setuptools.packages.find]
+where = ["psychopy_sphinx_themes"]
+
 [tool.setuptools.package-data]
 "psychopy_sphinx_themes" = ["*.html", "*.css", "*.js", "*.png", "*.jpg", "*.jpeg", "*.svg", ".conf"]
