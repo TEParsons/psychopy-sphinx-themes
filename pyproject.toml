@@ -1,0 +1,9 @@
+[project]
+name = psychopy-sphinx-themes
+version = 0.0.0
+
+description = "Themes for PsychoPy and plugins documentations, building in sphinx"
+authors = [
+  { name = "Open Science Tools", email = "support@opensceincetools.org" },
+]
+license = { text = "MIT" }
