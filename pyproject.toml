@@ -13,5 +13,4 @@ psychopy_plugin = "psychopy_sphinx_themes"
 psychopy = "psychopy_sphinx_themes"
 
 [tool.setuptools.package-data]
-'psychopy_plugin' = ['*.*']
-'psychopy' = ['*.*']
+"psychopy_sphinx_themes" = ['*.*']
