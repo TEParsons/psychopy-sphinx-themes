@@ -9,4 +9,5 @@ authors = [
 license = { text = "MIT" }
 
 [project.entry-points."sphinx.html_themes"]
-psychopy_plugin = "psychopy_plugin"
+psychopy_plugin = "psychopy_sphinx_themes"
+psychopy = "psychopy_sphinx_themes"
