@@ -7,3 +7,6 @@ authors = [
   { name = "Open Science Tools", email = "support@opensceincetools.org" },
 ]
 license = { text = "MIT" }
+
+[project.entry-points."sphinx.html_themes"]
+psychopy_plugin = "psychopy_plugin"
