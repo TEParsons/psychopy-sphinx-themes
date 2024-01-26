@@ -1,6 +1,6 @@
 [project]
 name = psychopy-sphinx-themes
-version = 0.0.0
+version = "0.0.0"
 
 description = "Themes for PsychoPy and plugins documentations, building in sphinx"
 authors = [
